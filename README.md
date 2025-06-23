@@ -53,5 +53,5 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 
 
 
-![статус до коммита](https://github.com/vajnichev/8-01-hw/blob/master/img/Снимок экрана от 2025-06-23 19-09-01.png)
+![статус до коммита](https://github.com/vajnichev/8-01-hw/blob/master/img/8.1.1.png)
 
