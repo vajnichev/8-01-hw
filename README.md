@@ -32,4 +32,26 @@
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
+**Решение**
+
+
+
+
+## Решение 1
+
+
+
+1-6
+
+georgiy@georgiy-vajnichev:~/8-01-hw$ cd ~/8-01-hw
+
+georgiy@georgiy-vajnichev:~/8-01-hw$ git init
+
+georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.name YuryShelukhin
+
+georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email yysg@yandex.ru
+
+
+
+![статус до коммита](https://github.com/vajnichev/8-01-hw/blob/master/img/Снимок экрана от 2025-06-23 19-09-01.png)
 
