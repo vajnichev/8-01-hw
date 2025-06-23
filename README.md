@@ -69,7 +69,7 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 [ссылка](https://github.com/vajnichev/8-01-hw/blob/master/README.md?plain=1)
 
 
-##Задание 2
+###Задание 2
 
 Что нужно сделать:
 
@@ -81,6 +81,16 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 
-## Решение 
+## Решение 2
+
+1-2.
+
+<img src = "img/8.1.4.png" width = 100%>
+
+3.
+
+<img src = "img/8.1.5.png" width = 100%>
+
+4.
 
 
