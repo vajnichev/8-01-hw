@@ -94,3 +94,9 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 4.
 
 
+<img src = "img/8.1.6.png" width = 100%>
+
+Коммит после решения 
+
+[ссылка](https://github.com/vajnichev/8-01-hw/blob/master/README.md?plain=1)
+
