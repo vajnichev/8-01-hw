@@ -81,6 +81,6 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
 
-## Решение 2
+## Решение 
 
 
