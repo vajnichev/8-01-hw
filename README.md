@@ -47,9 +47,9 @@ georgiy@georgiy-vajnichev:~/8-01-hw$ cd ~/8-01-hw
 
 georgiy@georgiy-vajnichev:~/8-01-hw$ git init
 
-georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.name YuryShelukhin
+georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.name GeorgiyVajnichev
 
-georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email yysg@yandex.ru
+georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@gmail.com
 
 
 
