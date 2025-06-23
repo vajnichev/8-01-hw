@@ -59,6 +59,7 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 добавим отслеживание
 
 <img src = "img/8.1.2.png" width = 100%>
+
 ![добавим отслеживание](https://github.com/vajnichev/8-01-hw/blob/master/img/8.1.3.png)
 
 Коммит после решения  
