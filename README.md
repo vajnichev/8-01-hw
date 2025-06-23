@@ -55,3 +55,8 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 
 ![статус до коммита](https://github.com/vajnichev/8-01-hw/blob/master/img/8.1.2.png)
 
+7-11
+добавим отслеживание
+
+<img src = "img/8.1.2.png" width = 100%>
+- <img src = "img/812.png" width = 100%>
