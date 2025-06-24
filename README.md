@@ -118,3 +118,33 @@ georgiy@georgiy-vajnichev:~/8-01-hw$  git config --global user.email vajnichev@g
 
 Ваш граф комитов должен выглядеть аналогично скриншоту:
 
+<img src = "img/8.1.7.png" width =60%>
+
+## Решение 3.
+
+1-3.  
+<img src = "img/8.1.8.png" width =60%>
+git add .  
+git status 
+git checkout -b dev  
+git commit -am 'dev commit 1'  
+git push origin dev  
+Изменяем файл, несколько раз комиттим и пушим  
+4.   
+git branch -v   
+git checkout master  
+5.  
+vim main.sh  
+git add .  
+git commit -am 'commit, master 4'  
+git push origin master  
+6.  
+git merge dev  
+7.  
+git commit -am 'commit, master 5'  
+git push origin master  
+
+Ссылка на граф коммитов после решения  
+[ссылка](https://github.com/vajnichev/8-01-hw/network)
+
+<img src = "img/8.1.9png" width =60%>
