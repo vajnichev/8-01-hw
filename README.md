@@ -147,4 +147,4 @@ git push origin master
 Ссылка на граф коммитов после решения  
 [ссылка](https://github.com/vajnichev/8-01-hw/network)
 
-<img src = "img/8.1.9png" width =60%>
+<img src = "img/8.1.9.png" width =60%>
